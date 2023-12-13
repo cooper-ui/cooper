@@ -15,7 +15,7 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@cooper-ui/ui": ["libs/cooper-ui/src/index.ts"]
+      "@cooper-ui": ["libs/cooper-ui/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
